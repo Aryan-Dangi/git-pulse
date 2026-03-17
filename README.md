@@ -137,12 +137,3 @@ src/
 
 ---
 
-## Resume Line
-
-```
-GitHub Developer Analytics Dashboard
-• Built a React + TypeScript dashboard analyzing GitHub profiles via REST API
-• Implemented language distribution charts, developer score system, and comparison features
-• Designed responsive dark/light UI with Tailwind CSS and Recharts visualizations
-• Optimized API fetching with TanStack Query for intelligent caching
-```
